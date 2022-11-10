@@ -9,7 +9,7 @@
 # THANKS
 	
 	All of me
-	
+	Stashed comment
     <name>
 
 # TECHNOLOGY COLOPHON
