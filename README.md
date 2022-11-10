@@ -13,4 +13,4 @@ Smeneto so CR
 ## Cetvrta promena
 Go dvime malce
 Pa i petta
-
+STASH changes
